@@ -34,8 +34,9 @@ A Harbor system for idea-gifting and innovation-sharing that preserves origin at
 ---
 
 ## 6) Hash Record
-**Hash Type:** SHA-256 (recommended)  
-**Hash Value:** PENDING (to be filled after hash is generated)
+**Hash Type:** SHA-256  
+**Hash Value:** 3104dddd0dfd80670c21e8ebd7f77d0430c7fefe51557f76ae7af83854b85120
+
 
 ---
 
