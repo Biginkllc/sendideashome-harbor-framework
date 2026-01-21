@@ -135,3 +135,46 @@ you will not be erased.
 You will be recorded.
 
 Welcome home.
+---
+
+## 🌊 Harbor Drops
+
+Harbor Drops are public, recorded idea entries into the SendIdeasHome Harbor.
+
+Each Drop:
+• Preserves the giver’s name  
+• Is time-anchored  
+• Remains free to travel  
+• Cannot be erased  
+
+This is not ownership.
+This is remembrance.
+
+---
+
+### Published Drops
+
+- **Harbor Drop #001** — Pilot Entry  
+  📄 `drops/harbor_drop_001.md`
+
+---
+
+### How to Participate
+
+Anyone may submit an idea.
+
+You do not need permission.  
+You do not need credentials.  
+You do not need money.
+
+Use the submission template:
+
+📄 `docs/idea_submission_template.md`
+
+Your idea will be recorded.  
+Your name will remain.  
+Your idea may travel.
+
+---
+
+This Harbor is public.
